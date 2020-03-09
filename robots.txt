@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oofoowodu.erinvarey.ca/sitemap.xml
